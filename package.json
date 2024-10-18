@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://gurram-chethan.github.io/rUniversity-Landing-Page-Using-ReactJS", 
+  "homepage": "https://gurramchethan.github.io/rUniversity-Landing-Page-Using-ReactJS", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
